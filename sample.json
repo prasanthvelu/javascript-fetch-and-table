@@ -1,0 +1,74 @@
+[
+    {
+        "id": "C106",
+        "missions": 3,
+        "details": "The Ledergberg Replica Plating Experiment",
+        "status": "Active"
+    },
+    {
+        "id": "C203",
+        "missions": 1,
+        "details": "The Ledergberg Replica Plating Experiment",
+        "status": "Active"
+    },
+    {
+        "id": "C205",
+        "missions": 0,
+        "details": "The Ledergberg Replica Plating Experiment",
+        "status": "Active"
+    },
+    {
+        "id": "C206",
+        "missions": 3,
+        "details": "The Ledergberg Replica Plating Experiment",
+        "status": "Retired"
+    },
+    {
+        "id": "C207",
+        "missions": 1,
+        "details": "The Ledergberg Replica Plating Experiment",
+        "status": "Retired"
+    },
+    {
+        "id": "C208",
+        "missions": 0,
+        "details": "The Ledergberg Replica Plating Experiment",
+        "status": "Retired"
+    },
+    {
+        "id": "C209",
+        "missions": 3,
+        "details": "The Ledergberg Replica Plating Experiment",
+        "status": "Unknown"
+    },
+    {
+        "id": "C210",
+        "missions": 1,
+        "details": "The Ledergberg Replica Plating Experiment",
+        "status": "Unknown"
+    },
+    {
+        "id": "C211",
+        "missions": 0,
+        "details": "The Ledergberg Replica Plating Experiment",
+        "status": "Unknown"
+    },
+    {
+        "id": "C212",
+        "missions": 3,
+        "details": "The Ledergberg Replica Plating Experiment",
+        "status": "Destroyed"
+    },
+    {
+        "id": "C213",
+        "missions": 1,
+        "details": "The Ledergberg Replica Plating Experiment",
+        "status": "Destroyed"
+    },
+    {
+        "id": "C214",
+        "missions": 0,
+        "details": "The Ledergberg Replica Plating Experiment",
+        "status": "Destroyed"
+    }
+]
