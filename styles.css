@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  .container {
+    margin: 2% 5% 2% 5%;
+    padding: 1%;
+  }
+
+  #no_data_available h1{
+    padding: 0.5%;
+    text-align: center;
+    background-color: #00a3ff;
+  }
+
+  #status_load{
+text-align: center;
+margin-bottom: 5%;
+  }
+
+  #status{
+    padding: 0.5%;
+    width: 14%;
+  }
+
+  #load{
+    padding: 0.5%;
+    width: 7%;
+  }
+
+  #data_status{
+    padding: 0.5%;
+    text-align: center;
+    background-color: #00a3ff;
+  }
+
+  table, td, th {
+    border: 1px solid;
+    text-align: center;
+    padding: 1%;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }

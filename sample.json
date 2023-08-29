@@ -1,0 +1,86 @@
+[
+    {
+        "capsule_id": "C106",
+        "missions": 3,
+        "details": "The Ledergberg Replica Plating Experiment",
+        "status": "Active"
+    },
+    {
+        "capsule_id": "C203",
+        "missions": 1,
+        "details": "The Ledergberg Replica Plating Experiment",
+        "status": "Active"
+    },
+    {
+        "capsule_id": "C205",
+        "missions": 0,
+        "details": "The Ledergberg Replica Plating Experiment",
+        "status": "Active"
+    },
+    {
+        "capsule_id": "C206",
+        "missions": 4,
+        "details": "The Ledergberg Replica Plating Experiment",
+        "status": "Retired"
+    },
+    {
+        "capsule_id": "C207",
+        "missions": 5,
+        "details": "The Ledergberg Replica Plating Experiment",
+        "status": "Retired"
+    },
+    {
+        "capsule_id": "C208",
+        "missions": 6,
+        "details": "The Ledergberg Replica Plating Experiment",
+        "status": "Retired"
+    },
+    {
+        "capsule_id": "C209",
+        "missions": 7,
+        "details": "The Ledergberg Replica Plating Experiment",
+        "status": "Unknown"
+    },
+    {
+        "capsule_id": "C210",
+        "missions": 8,
+        "details": "The Ledergberg Replica Plating Experiment",
+        "status": "Unknown"
+    },
+    {
+        "capsule_id": "C211",
+        "missions": 9,
+        "details": "The Ledergberg Replica Plating Experiment",
+        "status": "Unknown"
+    },
+    {
+        "capsule_id": "C212",
+        "missions": 10,
+        "details": "The Ledergberg Replica Plating Experiment",
+        "status": "Destroyed"
+    },
+    {
+        "capsule_id": "C213",
+        "missions": 11,
+        "details": "The Ledergberg Replica Plating Experiment",
+        "status": "Destroyed"
+    },
+    {
+        "capsule_id": "C214",
+        "missions": 12,
+        "details": "The Ledergberg Replica Plating Experiment",
+        "status": "Destroyed"
+    },
+    {
+        "capsule_id": "C214",
+        "missions": 13,
+        "details": "The Ledergberg Replica Plating Experiment",
+        "status": "Destroyed"
+    },
+    {
+        "capsule_id": "C214",
+        "missions": 14,
+        "details": "The Ledergberg Replica Plating Experiment",
+        "status": "Destroyed"
+    }
+]
